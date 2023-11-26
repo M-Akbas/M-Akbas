@@ -1,4 +1,4 @@
-### Hey, I'm Muhammed 👋 
+### Hey, I'm Muhammed 👋🏽 
 
 I'm a 23 year old developer based in Germany, and I'm passionate about building Web-Applications. 
 
