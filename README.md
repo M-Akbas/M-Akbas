@@ -8,7 +8,9 @@ I'm a 23 year old developer based in Germany, and I'm passionate about building 
 
 ## 🔭 Current Endeavors 
 
-I'm currently searching a new challenge as a Front-End developer, where i can enhace my skills! Here's what I'm currently focused on:
+I'm currently searching a new challenge as a Front-End developer, where i can enhace my skills! 
+
+Here's what I'm currently focused on:
 
 - I'm engaged in exciting Front-End projects.
 - I'm exploring Python adn Firebase to enhance my skill set.
