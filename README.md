@@ -17,7 +17,7 @@ I'm currently searching a new challenge as a Front-End developer, where i can en
 Here's what I'm currently focused on:
 
 - I'm engaged in exciting Front-End projects.
-- I'm exploring Python and Firebase to enhance my skill set.
+- I'm exploring Vue.js and React to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
