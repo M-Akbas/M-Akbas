@@ -6,7 +6,6 @@
 
 I'm a 23 year old developer based in Germany, and I'm passionate about building Web-Applications. 
 
-- Check out my [website](https://muhammed-akbas.com/) to learn more about me.
 - Stay updated with my journey on [Instagram](https://www.instagram.com/meakcodes), [LinkedIn](https://www.linkedin.com/in/muhammed-akbas-4115b729a/) and [YouTube](https://www.youtube.com/@meakcodes).
 
 
