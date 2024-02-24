@@ -9,14 +9,12 @@ I'm a 23 year old developer based in Germany, and I'm passionate about building 
 - Stay updated with my journey on [Instagram](https://www.instagram.com/meakcodes), [LinkedIn](https://www.linkedin.com/in/muhammed-akbas-4115b729a/) and [YouTube](https://www.youtube.com/@meakcodes).
 
 
-## 🌐 Current Endeavors 
-
-I'm currently searching a new challenge as a Front-End developer, where i can enhace my skills! 
+## 🌐 What i currently do
 
 Here's what I'm currently focused on:
 
 - I'm engaged in exciting Front-End projects.
-- I'm exploring node.js and React to enhance my skill set.
+- I'm building proejcts with node.js and express.js to enhance my skill set.
 - I'm an early riser, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts 
