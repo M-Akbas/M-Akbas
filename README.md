@@ -27,7 +27,7 @@ Here's what I'm currently focused on:
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/meakcodes/) or [LinkedIn](https://www.linkedin.com/in/muhammed-akbas-4115b729a/). 
  
- For professional inquiries, reach out via email at [m-akbas@gmx.de](mailto:m-akbas@gmx.de). 
+ For professional inquiries, reach out via email at [m-akbas@gmx.de](mailto:contact@muhammed-akbas.com). 
 
 <b>My GitHub Stats</b>
 
