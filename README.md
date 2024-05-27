@@ -22,7 +22,7 @@ I'm a 23 year old developer based in Germany, and I'm passionate about building 
 - Python was my first experience with programming.
 - I love clean and reusable code.
 
-## 📫 Contact
+## ✉ Contact
 
  For a quick response, DM me on [Instagram](https://www.instagram.com/meakcodes/) or [LinkedIn](https://www.linkedin.com/in/muhammed-akbas-4115b729a/). 
 
