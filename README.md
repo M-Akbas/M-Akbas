@@ -11,11 +11,10 @@ I'm a 23 year old developer based in Germany, and I'm passionate about building 
 
 ## 🌐 What i currently do
 
-Here's what I'm currently focused on:
 
 - I'm engaged in exciting Front-End projects.
-- I'm building proejcts with node.js and express.js to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in the tech world.
+- I'm building proejcts with node.js and express.js.
+- I'm an early riser.
 
 ## ✨ Fun Facts 
 - Favorite Movie: Back to the Future.
