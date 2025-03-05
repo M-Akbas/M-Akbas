@@ -15,8 +15,8 @@ I'm a 25 year old Indie developer based in Germany
 
 
 - I'm building my Start-up (@codeaera)
-- I'm building proejcts with node.js and express.js.
-- I'm an early riser.
+- I'm shipping projects in weeks to validate them
+
 
 ## 🀄 Fun Facts 
 - Favorite Movie: Back to the Future.
@@ -26,7 +26,7 @@ I'm a 25 year old Indie developer based in Germany
 
 ## ✉ Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/meakcodes/) or [LinkedIn](https://www.linkedin.com/in/muhammed-akbas-4115b729a/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/meakcodes/)
 
 <b>My GitHub Stats</b>
 
