@@ -1,5 +1,4 @@
-
-![Bildschirmfoto 2024-05-28 um 00 03 26](https://github.com/M-Akbas/M-Akbas/assets/121759424/c6c4fc39-fb6f-43fd-ad5d-518b86e5e465)
+´
 
 
 
