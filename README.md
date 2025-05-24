@@ -1,9 +1,4 @@
-´
-
-
-
-
-### Hey, I'm Meak👋🏽 
+### Hey, I'm Muhammed aka. Meak 👋🏽 
 
 I'm a 25 year old Indie developer based in Germany
 
